@@ -1,6 +1,6 @@
 # Collatz_conjecture_Python
 
-#What's this?
+##What's this?
 
 Do you know Collatz_conjecture?
 It's like this.
@@ -11,7 +11,8 @@ It's will be "1"
 
 I'm interesting this,and make this.
 
-#How to use
+##How to use?  
+
 It need python.
 But It isn't use any special modules.
 If you have Python,Run "Collatz_python.py"
